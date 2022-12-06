@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kamehouse/static/css/main.a344359e.css",
+    "main.js": "/kamehouse/static/js/main.89a6ac6e.js",
+    "static/media/goku.png": "/kamehouse/static/media/goku.c528fc5cd676fdc87ac0.png",
+    "static/media/yamcha.png": "/kamehouse/static/media/yamcha.de03bd15ff2406077352.png",
+    "static/media/krilin.png": "/kamehouse/static/media/krilin.981a6bf2e8ce5ccfc37f.png",
+    "index.html": "/kamehouse/index.html",
+    "main.a344359e.css.map": "/kamehouse/static/css/main.a344359e.css.map",
+    "main.89a6ac6e.js.map": "/kamehouse/static/js/main.89a6ac6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a344359e.css",
+    "static/js/main.89a6ac6e.js"
+  ]
+}
